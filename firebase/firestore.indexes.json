@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "CourseSchedules",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "dayOfTheWeek",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "startTime",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>159215718970-nouln22lt4tjq11dr9guq9dao5k19n78.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.159215718970-nouln22lt4tjq11dr9guq9dao5k19n78</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>159215718970-01omqhvapfmcch3nm9jnunv21hh7r4oc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5ztF8R68ff8ppZ5KCJjtkhDClagtHEKg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>159215718970</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.poleroombooking</string>
+	<key>PROJECT_ID</key>
+	<string>pole-room-booking-9e2let</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pole-room-booking-9e2let.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:159215718970:ios:46f0dbab2107f846c61b03</string>
+</dict>
+</plist>

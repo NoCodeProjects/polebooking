@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "159215718970",
+    "project_id": "pole-room-booking-9e2let",
+    "storage_bucket": "pole-room-booking-9e2let.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159215718970:android:ef2696edc1b5cb67c61b03",
+        "android_client_info": {
+          "package_name": "com.mycompany.poleroombooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159215718970-48bkelrovhat24qb0qh27n0cvis5np13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.poleroombooking",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "159215718970-51d1abphft0g61d597ivvjghbsd4hi6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzog7aUSrMUKjz3uLPz43TKjpMiKBLCRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159215718970-51d1abphft0g61d597ivvjghbsd4hi6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159215718970-nouln22lt4tjq11dr9guq9dao5k19n78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.poleroombooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159215718970:android:b0ddbdc3a1c7d2d4c61b03",
+        "android_client_info": {
+          "package_name": "poleroom.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159215718970-01omqhvapfmcch3nm9jnunv21hh7r4oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poleroom.booking",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "159215718970-6ne5hue8mur1s6n3o4qfuc4kmajea06e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poleroom.booking",
+            "certificate_hash": "d110daa26a9202eb7cca882fc7c338c856420236"
+          }
+        },
+        {
+          "client_id": "159215718970-51d1abphft0g61d597ivvjghbsd4hi6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzog7aUSrMUKjz3uLPz43TKjpMiKBLCRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159215718970-51d1abphft0g61d597ivvjghbsd4hi6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159215718970-nouln22lt4tjq11dr9guq9dao5k19n78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.poleroombooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
